@@ -1,7 +1,7 @@
 # rest-api - LoopBack 4
 
 Installer la base de données MySQL cv_db.sql
-Permet de fournir une api back au projet contenu dans le dépôt [Angular 11](https://github.com/edouarddurandviel/angular11)
+Permet de fournir une api back au projet contenu dans le répertoire [Angular 11](https://github.com/edouarddurandviel/angular11)
 
 ## Installer le package
 
