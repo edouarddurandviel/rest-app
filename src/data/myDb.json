@@ -1,0 +1,18 @@
+{
+    "ids": {
+      "Applicants": 5,
+      "jobs": 2
+    },
+    "models": {
+      "Applicants": {
+        "1": "{\"firstName\":\"Edouard\",\"lastName\":\"Durand-Viel\",\"isCompleted\":\"true\",\"JobsId\":1\",\"id\":1}",
+        "2": "{\"firstName\":\"Alain\",\"lastName\":\"Durand-Viel\",\"isCompleted\":\"true\",\"JobsId\":1\",\"id\":2}",
+        "3": "{\"firstName\":\"Marie\",\"lastName\":\"Durand-Viel\",\"isCompleted\":\"true\",\"JobsId\":1\",\"id\":3}",
+        "4": "{\"firstName\":\"Gérald\",\"lastName\":\"Durand-Viel\",\"isCompleted\":\"true\",\"JobsId\":1\",\"id\":4}"
+      },
+      "jobs": {
+        "1": "{\"title\":\"Dev\",\"desc\":\"Dev front\",\"isCompleted\":\"true\",\"id\":1}"
+       
+      }
+    }
+  }
